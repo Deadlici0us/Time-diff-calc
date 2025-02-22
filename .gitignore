@@ -1,0 +1,4 @@
+*.yaml
+*.py
+*.sh
+config/

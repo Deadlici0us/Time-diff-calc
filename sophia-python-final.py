@@ -104,4 +104,4 @@ while True:
     if location_details:
         # Print location details
         for key, value in location_details.items():
-            print(f"{key}: {value}")
+            print(f"{key}: {value}")            
